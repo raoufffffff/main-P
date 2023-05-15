@@ -199,7 +199,7 @@ button:hover {
     position: absolute;
     left: 50%;
     top: 100%;
-    display: flex;
+    display: none;
     justify-content: space-around;
     width: 100%;
     background-color: #fff;
